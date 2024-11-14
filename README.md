@@ -20,7 +20,7 @@ animals. Explore into a world of fascinating creatures.
 * HTML, CSS and JS
 
 # Home Screen
-<img src="">  
+<img src="assets/Home.png">  
 
 # Sign Up Screen
 <img src="assets/Signup.png">  
