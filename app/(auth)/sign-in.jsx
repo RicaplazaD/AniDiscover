@@ -20,9 +20,9 @@ const SignIn = () => {
           <View className="w-full justify-center items-center h-full px-4 my-6">
               <Image source={images.logo}
                 resizemode='contain'
-                className="w-[150px] h-[150px] "
+                className="w-[140px] h-[140px] "
               />
-              <Text className="text-2xl text-white mt-10 font-u_regular ">Log in to  TechFolioHub</Text>
+              <Text className="text-3xl text-black mt-10 font-u_regular ">Log in to AniDiscover</Text>
               <FormField
                   title="Email"
                   value={form.email}
@@ -45,13 +45,13 @@ const SignIn = () => {
               />
 
         <View className="flex justify-center pt-5 flex-row      gap-2">
-            <Text className="text-lg text-gray-100 font-pregular">
+            <Text className="text-sm text-gray-100 font-pregular">
               Don't have an account?
             </Text>
            
             <Link
               href="/sign-up"
-              className="text-lg font-u_bold text-orange-600 "
+              className="text-sm font-u_bold text-orange-600 "
             >
               Signup
             </Link>
