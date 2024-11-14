@@ -1,11 +1,12 @@
 # AniDiscover
-AniDiscover Mobile App.
+AniDiscover is your guide to know about
+animals. Explore into a world of fascinating creatures.
 
 # Features
-* Share Projects
-* Message other developers
-* Rate others work
-* Search other developers
+* Search Functionality
+* Profile
+* React
+* Settings
 
 # Course Overview
 * Basic React Native Components
@@ -19,13 +20,12 @@ AniDiscover Mobile App.
 * HTML, CSS and JS
 
 # Home Screen
-<img src="assets/images/screenshot/onboarding.png">  
+<img src="">  
 
 # Sign Up Screen
-<img src="assets/images/screenshot/signup.png">  
+<img src="assets/Signup.png">  
 
 # Sign In Screen
-<img src="assets/images/screenshot/login.png">  
+<img src="assets/Signin.png">  
 
-# Tabs Screen
-<img src="assets/images/screenshot/tabs.png">  
+ 
