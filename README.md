@@ -28,4 +28,5 @@ animals. Explore into a world of fascinating creatures.
 # Sign In Screen
 <img src="assets/Signin.png">  
 
- 
+ # Tabs Screen
+<img src="assets/TabsScreen.png">

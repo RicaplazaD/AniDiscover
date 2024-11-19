@@ -15,7 +15,7 @@ const SignIn = () => {
   const submit = () =>{}
 
   return (
-    <SafeAreaView className="bg-blue-600 h-full">
+    <SafeAreaView className="bg-blue-500 h-full">
       <ScrollView>
           <View className="w-full justify-center items-center h-full px-4 my-6">
               <Image source={images.logo}
@@ -35,16 +35,17 @@ const SignIn = () => {
                   title="Password"
                   value={form.password}
                   handleChangeText={(e) => setForm({ ...form, password: e })}
-                  otherStyles="mt-7"
+                  otherStyles="mt-5"
               />
         <CustomButton
                   title="Sign In"
                   handlePress={submit}
                   containerStyles="w-full mt-7"
                   isLoading={isSubmitting}
+                  
               />
 
-        <View className="flex justify-center pt-5 flex-row      gap-2">
+        <View className="flex justify-center pt-11 flex-row      gap-2">
             <Text className="text-sm text-gray-100 font-pregular">
               Don't have an account?
             </Text>
